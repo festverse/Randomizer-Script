@@ -1,2 +1,16 @@
 # Randomizer-Script
-A lightweight After Effects script that automates property randomization. Simply define your target parameter and value range, and let the script handle the rest.
+
+* **File:** `Randomizer.jsx` | After Effects 2025+
+* Assigns random values to transform properties of selected layers.
+* Full 3D support: Z Position, X / Y / Z Rotation.
+* UI dynamically adapts to available panel space.
+
+<p align="center">
+  <img src="Screenshot.png" alt="Randomizer Script Interface" />
+</p>
+
+> **Note:** It can get a little chaotic when dealing with 3D layers right now—but hey, it's completely free!
+
+<p align="center">
+  Copyright reserved by <a href="https://github.com/festverse">festverse</a> 2025
+</p>

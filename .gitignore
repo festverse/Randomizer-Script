@@ -1,0 +1,27 @@
+# OS Generated Files (Keeps Mac/Windows hidden files out)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Code Editor Folders (Keeps your personal workspace settings private)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Node.js (Good future-proofing if you ever use npm packages for formatting/linting)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Compiled ExtendScript Files 
+# (Uncomment the line below if you ever encrypt your scripts to .jsxbin and only want source code on GitHub)
+# *.jsxbin

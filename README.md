@@ -6,7 +6,7 @@
 * UI dynamically adapts to available panel space.
 
 <p align="center">
-  <img src="Screenshot.png" alt="Randomizer Script Interface" />
+  <img src="Screenshot.png" width="30%" alt="Randomizer Script Interface" />
 </p>
 
 > **Note:** It can get a little chaotic when dealing with 3D layers right now—but hey, it's completely free!

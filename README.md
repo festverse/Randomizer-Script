@@ -9,7 +9,7 @@
   <img src="Screenshot.png" width="30%" alt="Randomizer Script Interface" />
 </p>
 
-> **Note:** It can get a little chaotic when dealing with 3D layers right now—but hey, it's completely free!
+> **Note:** It can get a little chaotic when dealing with 3D layers right now, but hey, it's completely free!
 
 <p align="center">
   Copyright reserved by <a href="https://github.com/festverse">Fest</a> 2026

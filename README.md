@@ -12,5 +12,5 @@
 > **Note:** It can get a little chaotic when dealing with 3D layers right now—but hey, it's completely free!
 
 <p align="center">
-  Copyright reserved by <a href="https://github.com/festverse">festverse</a> 2026
+  Copyright reserved by <a href="https://github.com/festverse">Fest</a> 2026
 </p>
